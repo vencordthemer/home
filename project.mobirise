@@ -97,7 +97,7 @@
               "display": "none"
             },
             ".mbr-fallback-image": {
-              "display": "block",
+              "display": "allow",
               "background-size": "cover",
               "background-position": "center center",
               "width": "100%",
